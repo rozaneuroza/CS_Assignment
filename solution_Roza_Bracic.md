@@ -9,3 +9,9 @@ UvA student number: 14757567
 
 - Zeigler, Donald W., et al. "The neurocognitive effects of alcohol on adolescents and college students." Preventive medicine 40.1 (2005): 23-32.
 
+## Plot
+
+![Beer Consumption Plot](Beer_plot.png)
+
+The above graph shows how much beer is consumed yearly
+
