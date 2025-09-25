@@ -11,7 +11,8 @@ UvA student number: 14757567
 
 ## Plot
 
-![Beer Consumption Plot](Beer_plot.png)
+![Beer Consumption Plot](beer_plot.png)
 
-The above graph shows how much beer is consumed yearly
+The above graph is based on [csv file](istherecorrelation.csv). The graph shows the correlation between the number of university students and the amout of beer drunk yearly in the Netherlands. The blue points represent the actual data points, while the red line is a trend line, meant to make the correlation more visible. Clearly, the more university students there are, the more alcohol is drunk. We can conclude that students make up a significant portion of drinkers in the Netherlands.
+
 
